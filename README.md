@@ -1,3 +1,5 @@
+## BEWARE: This doesn't really work with the default Ubuntu LTS installer in 24.04. The primary problem is that the flutter-based installer can't handle installing to pre-existing LVM volumes! If they ever fix that glaring oversight, this script may again be of some use.
+
 # LUKS-guided-manual-partitioning
 Easily install Ubuntu with FDE and semi-manual partitioning see the full write-up [here](https://adventures-in-tech.blogspot.com/2018/10/encrypted-ubuntu-installation-with.html)
 
